@@ -97,7 +97,7 @@ export default function Home() {
             Happy Birthday Raji 💕
           </h1>
           <p className="text-3xl text-pink-600 mb-4" style={{ fontFamily: 'Caveat, cursive' }}>
-            Our Beautiful Birthday Girl 💕
+            My Beautiful Birthday Girl 💕
           </p>
         </motion.div>
 
